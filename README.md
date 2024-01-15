@@ -8,3 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 If you want to run this project on your pc then you have to run **npm i** before **ng serve**. That's widely accepted as a standard.
+Because the **node_modules** folder is not on github.
